@@ -1,0 +1,46 @@
+title = "Bioinformatics Core"
+baseURL = "https://bioinfo.mbu.cas.cz"
+languageCode = "en-us"
+theme = "ananke"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","\\.nb\\.html$"]
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]
+    name = "People"
+    url = "/people/"
+    weight = 1
+[[menu.main]]
+    name = "IMIC Home"
+    url = "https://mbucas.cz/"
+    weight = 2
+
+
+[params]
+  favicon = ""
+  description = "Brief info on what we can do for your analysis."
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/cas-bioinf/"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = "https://bioinfo-prague.slack.com/"
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-navy"
+  featured_image = "/images/title.jpg"
+  recent_posts_number = 2
