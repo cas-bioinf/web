@@ -5,7 +5,7 @@ description: "Who we are"
 
 # Daniel K. Morais
 
-Formerly at Centro de Pesquisas René Rachou. Approached bioinformatics from the "bio" side.
+Formerly at Centro de Pesquisas René Rachou and [Laboratory of Environmental Microbiology](https://lab141.mbucas.cz/). Approached bioinformatics from the "bio" side.
 
 ## Focus
 * Metagenomics
