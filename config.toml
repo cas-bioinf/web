@@ -22,9 +22,13 @@ enableRobotsTXT = true
     url = "/people/"
     weight = 1
 [[menu.main]]
+    name = "Journal Club"
+    url = "https://lab126.mbu.cas.cz/index.php/en/journal-club"
+    weight = 2
+[[menu.main]]
     name = "IMIC Home"
     url = "https://mbucas.cz/"
-    weight = 2
+    weight = 3
 
 
 [params]
