@@ -8,7 +8,7 @@ We strive to provide support for all projects related to bioinformatics, includi
 
 # Get in touch!
 
-In any case: if you need bioinformatics/programming/statistics help, do not hesitate to arrange a meeting via e-mail (TODO:official email) or ask on [Prague Bioinformatics Slack](https://bioinfo-prague.slack.com/). There is a lot of stuff we don't know, but we can often connect you with someone who does.
+In any case: if you need bioinformatics/programming/statistics help, do not hesitate to arrange a meeting via e-mail [bioinformatics@biomed.cas.cz](mailto:bioinformatics@biomed.cas.cz) or ask on [Prague Bioinformatics Slack](https://bioinfo-prague.slack.com/). There is a lot of stuff we don't know, but we can often connect you with someone who does.
 
 # Some stuff we know
 
@@ -22,4 +22,6 @@ We would be particularly happy to help with:
 * Programming problems
 * ... and more!
 
-But really, just get in touch! (TODO official email).
+But really, just get in touch! 
+
+### [bioinformatics@biomed.cas.cz](mailto:bioinformatics@biomed.cas.cz).

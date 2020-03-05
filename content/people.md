@@ -3,6 +3,10 @@ title: "People"
 description: "Who we are"
 ---
 
+# Jiří Vohradský
+
+Our glorious leader, also [Laboratory of Bioinformatics](https://lab126.mbu.cas.cz) at Institute of Microbiology. Delegates stuff to the other people :-).
+
 # Daniel K. Morais
 
 Formerly at Centro de Pesquisas René Rachou and [Laboratory of Environmental Microbiology](https://lab141.mbucas.cz/). Approached bioinformatics from the "bio" side.
