@@ -35,16 +35,3 @@ Formerly worked in game AI at Charles University in Prague & Warhose Studios. Pa
 * GitHub: https://github.com/martinmodrak
 * ORCID: http://orcid.org/0000-0002-8886-7797
 * Twitter: https://twitter.com/modrak_m
-
-# Jan Jelínek
-
-Completing PhD in bioinformatics at Charles University in Prague. Partially active in [Laboratory of Bioinformatics](https://lab126.mbu.cas.cz) at Institute of Microbiology.  Approached bioinformatics from the "informatics" side.
-
-## Focus
-* Chemoinformatics
-* Ligand binding
-* Web servers
-
-## Contacts
-* GitHub: https://github.com/Jelinek-J
-* ORCID: https://orcid.org/0000-0001-9720-1885
