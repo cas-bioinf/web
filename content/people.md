@@ -7,9 +7,9 @@ description: "Who we are"
 
 Our glorious leader, also [Laboratory of Bioinformatics](https://lab126.mbu.cas.cz) at Institute of Microbiology. Delegates stuff to the other people :-).
 
-# Daniel K. Morais
+# Priscila Caroline Thiago Dobbler
 
-Formerly at Centro de Pesquisas René Rachou and [Laboratory of Environmental Microbiology](https://lab141.mbucas.cz/). Approached bioinformatics from the "bio" side.
+Formerly at Universidade Federal do Pampa. Approached bioinformatics from the "bio" side.
 
 ## Focus
 * Metagenomics
@@ -18,8 +18,8 @@ Formerly at Centro de Pesquisas René Rachou and [Laboratory of Environmental Mi
 * Genome annotation
 
 ## Contacts
-* GitHub: https://github.com/kdanielmorais
-* ORCID: https://orcid.org/0000-0003-3328-7848
+* Email: [priscila.thiago@biomed.cas.cz](mailto:priscila.thiago@biomed.cas.cz)
+* ORCID: https://orcid.org/0000-0002-7681-5463
 
 # Martin Modrák
 
