@@ -13,8 +13,9 @@ Formerly at Universidade Federal do Pampa. Approached bioinformatics from the "b
 
 ## Focus
 * Metagenomics
+* Metatranscriptomics
 * Community ecology
-* Genome assembly
+* (Meta)Genome assembly
 * Genome annotation
 
 ## Contacts
