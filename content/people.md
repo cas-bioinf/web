@@ -16,7 +16,7 @@ Formerly at Universidade Federal do Pampa. Approached bioinformatics from the "b
 * Metatranscriptomics
 * Community ecology
 * (Meta)Genome assembly
-* Genome annotation
+* (Meta)Genome annotation
 
 ## Contacts
 * Email: [priscila.thiago@biomed.cas.cz](mailto:priscila.thiago@biomed.cas.cz)
